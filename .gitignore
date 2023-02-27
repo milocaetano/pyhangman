@@ -1,0 +1,15 @@
+# Arquivos de byte compilados Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Arquivos de configuração
+.env
+
+# Logs e arquivos temporários
+logs/
+*.log
+*.swp
+*.swo
